@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\game3-main\\main1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD8B8BA-1E03-4D63-A3E5-46B66B553266}|main1\\main1.vcxproj|C:\\Users\\user\\Desktop\\game3-main\\main1\\main1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BD8B8BA-1E03-4D63-A3E5-46B66B553266}|main1\\main1.vcxproj|solutionrelative:main1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD8B8BA-1E03-4D63-A3E5-46B66B553266}|main1\\main1.vcxproj|C:\\Users\\user\\Desktop\\game3-main\\main1\\main1\\InfoButton.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BD8B8BA-1E03-4D63-A3E5-46B66B553266}|main1\\main1.vcxproj|solutionrelative:main1\\InfoButton.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD8B8BA-1E03-4D63-A3E5-46B66B553266}|main1\\main1.vcxproj|C:\\Users\\user\\Desktop\\game3-main\\main1\\main1\\effect.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3BD8B8BA-1E03-4D63-A3E5-46B66B553266}|main1\\main1.vcxproj|solutionrelative:main1\\effect.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD8B8BA-1E03-4D63-A3E5-46B66B553266}|main1\\main1.vcxproj|C:\\Users\\user\\Desktop\\game3-main\\main1\\main1\\GraphicsContext.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BD8B8BA-1E03-4D63-A3E5-46B66B553266}|main1\\main1.vcxproj|solutionrelative:main1\\GraphicsContext.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD8B8BA-1E03-4D63-A3E5-46B66B553266}|main1\\main1.vcxproj|C:\\Users\\user\\Desktop\\game3-main\\main1\\main1\\ButtonFSM.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BD8B8BA-1E03-4D63-A3E5-46B66B553266}|main1\\main1.vcxproj|solutionrelative:main1\\ButtonFSM.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD8B8BA-1E03-4D63-A3E5-46B66B553266}|main1\\main1.vcxproj|C:\\Users\\user\\Desktop\\game3-main\\main1\\main1\\Logger.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BD8B8BA-1E03-4D63-A3E5-46B66B553266}|main1\\main1.vcxproj|solutionrelative:main1\\Logger.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InfoButton.hpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\game3-main\\main1\\main1\\InfoButton.hpp",
+              "RelativeDocumentMoniker": "main1\\InfoButton.hpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\game3-main\\main1\\main1\\InfoButton.hpp",
+              "RelativeToolTip": "main1\\InfoButton.hpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwFkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-15T11:44:28.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "effect.hlsl",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\game3-main\\main1\\main1\\effect.hlsl",
+              "RelativeDocumentMoniker": "main1\\effect.hlsl",
+              "ToolTip": "C:\\Users\\user\\Desktop\\game3-main\\main1\\main1\\effect.hlsl",
+              "RelativeToolTip": "main1\\effect.hlsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-15T11:29:27.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GraphicsContext.hpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\game3-main\\main1\\main1\\GraphicsContext.hpp",
+              "RelativeDocumentMoniker": "main1\\GraphicsContext.hpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\game3-main\\main1\\main1\\GraphicsContext.hpp",
+              "RelativeToolTip": "main1\\GraphicsContext.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwCoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-15T11:27:19.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ButtonFSM.hpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\game3-main\\main1\\main1\\ButtonFSM.hpp",
+              "RelativeDocumentMoniker": "main1\\ButtonFSM.hpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\game3-main\\main1\\main1\\ButtonFSM.hpp",
+              "RelativeToolTip": "main1\\ButtonFSM.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-15T11:15:20.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logger.hpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\game3-main\\main1\\main1\\Logger.hpp",
+              "RelativeDocumentMoniker": "main1\\Logger.hpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\game3-main\\main1\\main1\\Logger.hpp",
+              "RelativeToolTip": "main1\\Logger.hpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-15T11:14:56.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\game3-main\\main1\\main1\\main.cpp",
+              "RelativeDocumentMoniker": "main1\\main.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\game3-main\\main1\\main1\\main.cpp",
+              "RelativeToolTip": "main1\\main.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwB4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-15T11:12:03.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\user\Desktop\game3-main\main1\main1\Logger.hpp(2,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\game3-main\main1\main1\Logger.hpp(2,9):
+      이전에 명령줄에서 선언된 '_CRT_SECURE_NO_WARNINGS'
+  
+  main1.vcxproj -> C:\Users\user\Desktop\game3-main\main1\x64\Debug\main1.exe

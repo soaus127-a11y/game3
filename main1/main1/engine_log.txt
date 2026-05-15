@@ -1,0 +1,55 @@
+[Fri May 15 21:11:43 2026] Engine Initialization Started.
+[Fri May 15 21:11:43 2026] [Engine] GameLoop Created.
+[Fri May 15 21:11:43 2026] Game Loop is starting...
+[Fri May 15 21:11:43 2026] [ButtonFSM] State Changed: IDLE -> HOVER
+[Fri May 15 21:11:43 2026] [ButtonFSM] State Changed: HOVER -> PRESSED
+[Fri May 15 21:11:44 2026] [ButtonFSM] State Changed: PRESSED -> RELEASED
+[Fri May 15 21:11:44 2026] --- Info Button Clicked ---
+[Fri May 15 21:11:44 2026] [INFO] State: CLICKED_1 | Message: 버튼이 노란색으로 변경되었습니다.
+[Fri May 15 21:11:44 2026] ---------------------------
+[Fri May 15 21:11:44 2026] [ButtonFSM] State Changed: RELEASED -> HOVER
+[Fri May 15 21:11:44 2026] [ButtonFSM] State Changed: HOVER -> IDLE
+[Fri May 15 21:11:45 2026] [ButtonFSM] State Changed: IDLE -> HOVER
+[Fri May 15 21:11:45 2026] [ButtonFSM] State Changed: HOVER -> PRESSED
+[Fri May 15 21:11:45 2026] [ButtonFSM] State Changed: PRESSED -> RELEASED
+[Fri May 15 21:11:45 2026] --- Info Button Clicked ---
+[Fri May 15 21:11:45 2026] [INFO] State: CLICKED_2 | Message: 버튼이 빨간색으로 변경되었습니다.
+[Fri May 15 21:11:45 2026] ---------------------------
+[Fri May 15 21:11:45 2026] [ButtonFSM] State Changed: RELEASED -> HOVER
+[Fri May 15 21:11:46 2026] [ButtonFSM] State Changed: HOVER -> PRESSED
+[Fri May 15 21:11:46 2026] [ButtonFSM] State Changed: PRESSED -> RELEASED
+[Fri May 15 21:11:46 2026] --- Info Button Clicked ---
+[Fri May 15 21:11:46 2026] [INFO] State: IDLE | Message: 상태가 초기화되었습니다.
+[Fri May 15 21:11:46 2026] ---------------------------
+[Fri May 15 21:11:46 2026] [ButtonFSM] State Changed: RELEASED -> HOVER
+[Fri May 15 21:11:48 2026] [ButtonFSM] State Changed: HOVER -> PRESSED
+[Fri May 15 21:11:49 2026] [ButtonFSM] State Changed: PRESSED -> RELEASED
+[Fri May 15 21:11:49 2026] --- Info Button Clicked ---
+[Fri May 15 21:11:49 2026] [INFO] State: CLICKED_1 | Message: 버튼이 노란색으로 변경되었습니다.
+[Fri May 15 21:11:49 2026] ---------------------------
+[Fri May 15 21:11:49 2026] [ButtonFSM] State Changed: RELEASED -> HOVER
+[Fri May 15 21:11:49 2026] [ButtonFSM] State Changed: HOVER -> PRESSED
+[Fri May 15 21:11:50 2026] [ButtonFSM] State Changed: PRESSED -> RELEASED
+[Fri May 15 21:11:50 2026] --- Info Button Clicked ---
+[Fri May 15 21:11:50 2026] [INFO] State: CLICKED_2 | Message: 버튼이 빨간색으로 변경되었습니다.
+[Fri May 15 21:11:50 2026] ---------------------------
+[Fri May 15 21:11:50 2026] [ButtonFSM] State Changed: RELEASED -> HOVER
+[Fri May 15 21:11:50 2026] [ButtonFSM] State Changed: HOVER -> PRESSED
+[Fri May 15 21:11:50 2026] [ButtonFSM] State Changed: PRESSED -> RELEASED
+[Fri May 15 21:11:50 2026] --- Info Button Clicked ---
+[Fri May 15 21:11:50 2026] [INFO] State: IDLE | Message: 상태가 초기화되었습니다.
+[Fri May 15 21:11:50 2026] ---------------------------
+[Fri May 15 21:11:50 2026] [ButtonFSM] State Changed: RELEASED -> HOVER
+[Fri May 15 21:11:51 2026] [ButtonFSM] State Changed: HOVER -> PRESSED
+[Fri May 15 21:11:51 2026] [ButtonFSM] State Changed: PRESSED -> RELEASED
+[Fri May 15 21:11:51 2026] --- Info Button Clicked ---
+[Fri May 15 21:11:51 2026] [INFO] State: CLICKED_1 | Message: 버튼이 노란색으로 변경되었습니다.
+[Fri May 15 21:11:51 2026] ---------------------------
+[Fri May 15 21:11:51 2026] [ButtonFSM] State Changed: RELEASED -> HOVER
+[Fri May 15 21:11:52 2026] [ButtonFSM] State Changed: HOVER -> PRESSED
+[Fri May 15 21:11:52 2026] [ButtonFSM] State Changed: PRESSED -> RELEASED
+[Fri May 15 21:11:52 2026] --- Info Button Clicked ---
+[Fri May 15 21:11:52 2026] [INFO] State: CLICKED_2 | Message: 버튼이 빨간색으로 변경되었습니다.
+[Fri May 15 21:11:52 2026] ---------------------------
+[Fri May 15 21:11:52 2026] [ButtonFSM] State Changed: RELEASED -> HOVER
+[Fri May 15 21:11:52 2026] [ButtonFSM] State Changed: HOVER -> IDLE

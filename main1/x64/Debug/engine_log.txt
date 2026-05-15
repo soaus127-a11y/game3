@@ -1,0 +1,11 @@
+[21:04:35] ========== [Engine Log Started] ==========
+[21:04:36] --- Info Button Clicked ---
+[21:04:36] State: CLICKED_1 (Yellow)
+[21:04:37] --- Info Button Clicked ---
+[21:04:37] State: CLICKED_2 (Red)
+[21:04:37] --- Info Button Clicked ---
+[21:04:37] State: IDLE (Back to Gray)
+[21:04:38] --- Info Button Clicked ---
+[21:04:38] State: CLICKED_1 (Yellow)
+[21:04:39] --- Info Button Clicked ---
+[21:04:39] State: CLICKED_2 (Red)
